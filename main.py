@@ -29,7 +29,7 @@ def query_route(query: str = Query(..., description="Search query")):
     for i, text in enumerate(similar_texts):
         results.append(QueryResponse(content=text, similarity_score=similarity_scores[i]))
 
-    return {"results": results, "message": "OK"}
+    return {"results": results, "message": "OK", "n_results": len(results)}
 
 
 
