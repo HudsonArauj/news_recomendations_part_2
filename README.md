@@ -19,8 +19,8 @@ MSE = \frac{1}{N} \sum_{i=1}^{N} (x_i - \hat{x}_i)^2
 $$
 
 
-onde$x_i$ representa a embedding original e $\hat{x}_i$ representa a embedding reconstruída.
-
+onde $x_i$ representa o embedding original e $\hat{x}_i$ representa o embedding reconstruído.
+ 
 # Visualização de Embeddings
 
 <img src="./imgs/fig2.png" width="500">
