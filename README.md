@@ -1,6 +1,8 @@
 
 # News Recommendation
 
+
+
 ### Leitura pode ser feita a partir do [link](aps_2_nlp.pdf)
 
 # Descrição do Conjunto de Dados
