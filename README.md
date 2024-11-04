@@ -1,7 +1,7 @@
 
 # News Recommendation
 
-### Leitura pode a partir do [link](aps_2_nlp.pdf)
+### Leitura pode ser feita a partir do [link](aps_2_nlp.pdf)
 
 # Descrição do Conjunto de Dados
 Para criar o conjunto de dados, dados de notícias foram coletados do site Poder360. Esses dados foram extraídos, armazenados e organizados no formato JSON. Posteriormente, os dados foram convertidos para um DataFrame e CSV, a fim de facilitar a análise.
