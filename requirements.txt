@@ -1,0 +1,11 @@
+pandas
+transformers
+torch
+matplotlib
+scikit-learn
+plotly
+nbformat==4.2.0
+seaborn
+faiss-cpu
+uvicorn
+fastapi
